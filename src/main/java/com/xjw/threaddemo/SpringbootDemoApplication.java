@@ -1,4 +1,4 @@
-package com.xjw.springbootdemo;
+package com.xjw.threaddemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
