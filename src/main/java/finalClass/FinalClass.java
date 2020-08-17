@@ -1,4 +1,4 @@
-package com.xjw.finalClass;
+package finalClass;
 
 import lombok.extern.slf4j.Slf4j;
 
